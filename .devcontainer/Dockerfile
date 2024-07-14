@@ -1,3 +1,4 @@
+
 FROM mcr.microsoft.com/devcontainers/python:3.8
 
 # 安装必要的软件包
@@ -10,11 +11,12 @@ RUN sh -c 'echo "deb [arch=amd64] http://dl.google.com/linux/chrome/deb/ stable 
 RUN apt-get update && apt-get install -y google-chrome-stable
 
 # 下载并安装 ChromeDriver
-RUN wget -O /tmp/chromedriver.zip https://chromedriver.storage.googleapis.com/126.0.6478.114/chromedriver_linux64.zip && \
+RUN wget -O /tmp/chromedriver.zip https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/126.0.6478.0/linux64/chromedriver-linux64.zip && \
     unzip /tmp/chromedriver.zip -d /usr/local/bin/ && \
     rm /tmp/chromedriver.zip
 
 # 设置默认工作目录
 WORKDIR /workspace
+
 
 
