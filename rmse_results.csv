@@ -1,0 +1,4 @@
+,LSTM,GRU,GAN,WGAN
+RMSE（Train）,3.82,0.75,0.7,0.59
+RMSE（test exclude 2020）,2.67,3.1,1.62,1.89
+RMSE（test include 2020）,3.46,3.8,3.26,2.95
