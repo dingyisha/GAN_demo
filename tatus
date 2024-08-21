@@ -1,0 +1,54 @@
+[33m06ae881[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m update
+[33m3b2df3c[m update
+[33m370ef27[m update
+[33m9a81522[m update
+[33mbf471f7[m Update README.md
+[33m80af638[m update
+[33m418ef4e[m update
+[33m9c606fb[m update
+[33m2c1c59b[m update stock_gan
+[33mc38a67e[m Update and rename alpha_news.py to apple_news.py
+[33mba851fb[m Update and rename alpha_news.py to NPL/alpha_news.py
+[33m0a95780[m Add files via upload
+[33mcb0ec2c[m update 2024
+[33m2412778[m Add files via upload
+[33mcae2813[m Add files via upload
+[33m2210acb[m Add files via upload
+[33m295f0c6[m Add files via upload
+[33me10becb[m update
+[33m4304978[m update
+[33mcf38291[m update markdown
+[33me88497d[m Merge branch 'main' of https://github.com/dingyisha/GAN_demo
+[33m965fda9[m 恢复并解决冲突
+[33mbd75c68[m Update 6. Test_prediction.ipynb
+[33mba43072[m update
+[33md3bac87[m Update README.md
+[33m9b68815[m Update README.md
+[33m522c166[m update result
+[33m8b59666[m 删除冲突文件并拉取最新版本
+[33m6cb92e5[m Add files via upload
+[33ma2cb0af[m Resolve merge conflicts
+[33meae6c0c[m update
+[33meec473d[m update WGAN
+[33m0ba7073[m Add all changes and new files
+[33m350c885[m Add all changes and new files
+[33m054d6fc[m  update
+[33ma0ec32d[m Update Dockerfile to fix errors and match ChromeDriver version 126.0.6478.114
+[33mf0a0774[m Add files via upload
+[33m1c8bc56[m Add files via upload
+[33m3fbc68b[m Rename web_scraping.ipynb to NLP/web_scraping.ipynb
+[33mde1b768[m Update Dockerfile to fix errors and match ChromeDriver version 126.0.6478.114 (arm64)
+[33m203bee9[m Update Dockerfile to fix errors and match ChromeDriver version 126.0.6478.114
+[33maa5d7e4[m Update Dockerfile
+[33m56fd013[m Update Dockerfile
+[33m4b8fa14[m Update Dockerfile
+[33m5bca16e[m Remove duplicate devcontainer folder
+[33m4e42ce5[m Rename devcontainer folder to .devcontainer
+[33m9d6b34c[m Create devcontainer.json
+[33m828600c[m Update and rename .devcontainer to devcontainer/Dockerfile
+[33m0e13360[m Update .devcontainer
+[33mb4ea158[m Create .devcontainer
+[33m11d611a[m Add files via upload
+[33maeb5892[m Delete web_scraping.ipynb
+[33m96c8f78[m Add files via upload
+[33m0d17e76[m Initial commit
